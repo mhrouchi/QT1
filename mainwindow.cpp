@@ -12,4 +12,5 @@ MainWindow::~MainWindow()
 {
     delete ui;
     "i m here"
+    "i'm AISSI"
 }
